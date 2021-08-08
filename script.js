@@ -85,7 +85,7 @@ Promise.all([
 const WEATHER_API_KEY = ''; //provide your own weather api key here
 const CITY = 'Zamość'; // change it to whatever city you want
 
-fetch(`https://api.openweathermap.org/data/2.5/weather?q=${CITY}&units=metric&appid=${API_KEY}`)
+fetch(`https://api.openweathermap.org/data/2.5/weather?q=${CITY}&units=metric&appid=${WEATHER_API_KEY}`)
 .then(res =>  res.json())
 .then(data =>{
     const iconLink = `https://openweathermap.org/img/w/${data.weather[0].icon}.png`;
