@@ -64,7 +64,7 @@ With this challenge I trained the concept of asyncronous programming in Javascri
 
 ### Continued development
 
-In future projects I'm going to focus more on complex layouts and using APIs.
+There's TODO widget that needs coding. Also, I'm planning to add new features to already existing widgets (option tags, choice of cities, etc.)
 
 ### Useful resources
 
