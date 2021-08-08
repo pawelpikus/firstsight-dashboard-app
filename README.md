@@ -16,7 +16,6 @@ User is able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/pawelpikus/firstsight-dashboard-app)
-- Live Site URL: [live site](https://pawelpikus.github.io/firstsight-dashboard-app/)
 
 ## Install as Chrome extension
 The process of adding a custom extension is quite similiar in every modern browser. Below is the instruction for Chrome:
